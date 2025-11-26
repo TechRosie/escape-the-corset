@@ -11,6 +11,7 @@
 <p align="center">
   <a href="#-在线阅读"><b>📖 在线阅读</b></a> ·
   <a href="#-快速开始"><b>🚀 参与创作</b></a> ·
+  <a href="#-视频教程"><b>🎬 视频教程</b></a> ·
   <a href="#-参与贡献"><b>🤝 贡献指南</b></a>
 </p>
 
@@ -79,6 +80,30 @@ flowchart LR
 ```
 
 > 💡 **提示**：可根据需要添加「使用明亮配色」「保持原画风」等补充说明。
+
+<br>
+
+---
+
+<br>
+
+## 🎬 视频教程
+
+不知道如何开始？观看完整的创作流程演示：
+
+<p align="center">
+  <a href="https://youtu.be/RjGQHTueuBU?si=CWzA6XClCaiUP8dS">
+    <img src="https://img.youtube.com/vi/RjGQHTueuBU/maxresdefault.jpg" alt="创作教程" width="600"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/RjGQHTueuBU?si=CWzA6XClCaiUP8dS">
+    <img src="https://img.shields.io/badge/▶_观看教程-YouTube-FF0000?style=for-the-badge&logo=youtube" alt="YouTube"/>
+  </a>
+</p>
+
+> 🎥 **视频内容**：从上传原图到生成彩色中文版的完整操作演示
 
 <br>
 
