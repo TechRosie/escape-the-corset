@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell -Command:*)",
+      "Bash(powershell -NoProfile -ExecutionPolicy Bypass -File:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
