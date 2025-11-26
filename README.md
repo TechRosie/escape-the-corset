@@ -58,48 +58,6 @@ flowchart LR
 
 <br>
 
-## 🛠️ 技术流程
-
-```mermaid
-flowchart TD
-    subgraph 输入
-        A[📄 黑白日语漫画]
-    end
-    
-    subgraph AI["🤖 Nano Banana Pro by Gemini 3"]
-        B[图像语义分析]
-        B --> C[智能上色]
-        B --> D[文字识别 OCR]
-        D --> E[日语→中文翻译]
-    end
-    
-    subgraph 输出
-        F[🎨 彩色中文漫画]
-    end
-    
-    A --> B
-    C --> F
-    E --> F
-    
-    style A fill:#f5f5f5
-    style F fill:#c8e6c9
-```
-
-**为什么选择 Nano Banana Pro？**
-
-| 能力 | 说明 |
-|:---|:---|
-| 🖼️ 图像理解 | 识别漫画结构、人物、场景 |
-| 🎨 语义上色 | 根据情感基调生成配色 |
-| ✍️ 文字处理 | 精准替换文字，保持排版 |
-| 🔄 风格一致 | 保持原作艺术风格 |
-
-<br>
-
----
-
-<br>
-
 ## 🚀 快速开始
 
 只需 **5 步**，即可参与 AI 二次创作：
