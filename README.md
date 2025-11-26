@@ -1,219 +1,213 @@
 # 🎨 Escape the Corset | 脱束身衣日记
 
-> 韩国女权主义漫画《탈코일기》中文彩色翻译版
+> **用 AI 将韩国女权漫画《탈코일기》重绘为彩色中文版的开源项目**
 
 <p align="center">
   <img src="https://img.shields.io/badge/原作-탈코일기-ff6b9d?style=for-the-badge" alt="原作"/>
-  <img src="https://img.shields.io/badge/语言-简体中文-blue?style=for-the-badge" alt="语言"/>
-  <img src="https://img.shields.io/badge/AI优化-Gemini 3-4285F4?style=for-the-badge" alt="AI优化"/>
-  <img src="https://img.shields.io/badge/欢迎贡献-协作翻译-brightgreen?style=for-the-badge" alt="欢迎贡献"/>
+  <img src="https://img.shields.io/badge/AI-Nano_Banana_Pro-4285F4?style=for-the-badge" alt="AI"/>
+  <img src="https://img.shields.io/badge/开源-欢迎贡献-brightgreen?style=for-the-badge" alt="开源"/>
 </p>
 
----
+<p align="center">
+  <a href="#-在线阅读"><b>📖 在线阅读</b></a> ·
+  <a href="#-快速开始"><b>🚀 参与创作</b></a> ·
+  <a href="#-参与贡献"><b>🤝 贡献指南</b></a>
+</p>
 
-## 📖 关于本作
+<br>
 
-**《탈코일기》**（Tal-Ko-Il-Gi / 脱束身衣日记）是一部韩国女权主义漫画，深刻记录了女性从迎合社会审美标准到觉醒、拒绝被定义的心理蜕变过程。
+## 📌 项目概览
 
-### 📝 名称解读
-
-| 韩文 | 罗马音 | 含义 |
-|:---:|:---:|:---|
-| 탈 | Tal | 脱离、摆脱 (Escape/Off) |
-| 코 | Ko | Corset 的缩写（束身衣） |
-| 일기 | Ilgi | 日记 (Diary) |
-
-> 💡 **"Escape the Corset"** 是韩国 "Tal-Corset" 运动在英语世界的官方通用译法，该运动鼓励女性摆脱社会强加的外貌束缚。
-
----
-
-## 🎯 项目目标
-
-本项目致力于将《탈코일기》的**日语翻译版本**进行二次优化，呈现为：
-
-- 🌈 **彩色化** — 为原本的黑白漫画赋予色彩
-- 🇨🇳 **中文翻译** — 提供流畅自然的简体中文译本
-- 📱 **在线阅读** — 便捷的网页端阅读体验
-
----
-
-## 🛠️ 技术实现
-
-本项目使用 **Nano Banana Pro by Gemini 3** 进行：
-
-- 漫画图像的智能彩色化处理
-- 日语到中文的高质量翻译转换
-
----
-
-## 📝 翻译 & 彩色化教程
-
-想要参与漫画的中文翻译和彩色化工作？只需简单几步！
-
-### 🚀 快速开始
-
-1. **打开 Gemini**
-   - 访问 [Google Gemini](https://gemini.google.com/)
-   - 登录您的 Google 账号
-
-2. **选择「生成图片」功能**
-   - 在对话界面中，确保开启图片生成功能
-
-3. **上传原始漫画图片**
-   - 将需要处理的日语版漫画页面作为附件上传
-
-4. **输入提示词**
-
-   复制以下提示词模板：
-
-   ```
-   请帮我将附件图片做精细化处理，比如上色、增加背景和线条等等，对图片做专业漫画的加工程序，漫画中的日语配文要全部改为中文配文，使其成为一个专业的漫画。
-   ```
-
-5. **获取结果并保存**
-   - 等待 Gemini 生成彩色中文版漫画
-   - 下载保存处理后的图片
-
-### 💡 提示词优化建议
-
-根据实际效果，您可以尝试调整提示词：
-
-| 需求 | 提示词补充 |
-|:---|:---|
-| 更鲜艳的色彩 | 添加「使用明亮饱和的配色方案」 |
-| 保持原画风 | 添加「保持原作的绘画风格和线条特征」 |
-| 特定翻译风格 | 添加「翻译语气要自然流畅，贴近日常口语」 |
-| 字体要求 | 添加「中文配文使用清晰易读的漫画字体」 |
-
-### ⚠️ 注意事项
-
-- 生成结果可能需要多次尝试才能达到理想效果
-- 请仔细检查翻译内容的准确性
-- 保持图片分辨率，避免压缩导致画质下降
-
----
-
-## 🤝 参与贡献
-
-**这是一个开源协作项目，我们热烈欢迎每一位贡献者！** 🎉
-
-### 为什么要参与？
-
-- 💪 **传播女性力量** — 让更多中文读者了解这个觉醒故事
-- 🌍 **打破语言壁垒** — 用翻译连接不同文化
-- 🎨 **发挥创意** — 为黑白漫画赋予独特色彩
-- 👥 **结识同好** — 与志同道合的伙伴一起协作
-
-### 如何贡献？
-
-| 贡献方式 | 说明 |
-|:---|:---|
-| 🖼️ **提交彩色化作品** | 按照教程处理漫画页面，提交 PR |
-| 📖 **校对翻译** | 检查现有翻译的准确性和流畅度 |
-| 🐛 **反馈问题** | 在 Issues 中报告发现的错误 |
-| 💡 **提出建议** | 分享您的优化思路和创意 |
-| ⭐ **Star 项目** | 让更多人发现这个项目 |
-
-### 贡献流程
-
-```
-1. Fork 本仓库
-2. 创建您的分支 (git checkout -b feature/your-contribution)
-3. 提交更改 (git commit -m '添加第X话彩色化')
-4. 推送到分支 (git push origin feature/your-contribution)
-5. 创建 Pull Request
+```mermaid
+flowchart LR
+    A["🇰🇷 韩语原作<br><b>탈코일기</b>"] --> B["🇯🇵 日语翻译版"]
+    B --> C["🤖 Gemini AI<br><b>Nano Banana Pro</b>"]
+    C --> D["🎨 智能上色"]
+    C --> E["🇨🇳 中文翻译"]
+    D --> F["✨ 彩色中文版"]
+    E --> F
+    
+    style A fill:#ffebee
+    style C fill:#e3f2fd
+    style F fill:#e8f5e9
 ```
 
-### 📁 文件命名规范
+**《탈코일기》**（탈=脱离 + 코=Corset + 일기=日记）是一部韩国女权主义漫画，记录女性摆脱社会审美束缚、觉醒自我的心路历程。
 
-提交作品时，请按以下格式命名：
+> 💡 **"Escape the Corset"** 是韩国 Tal-Corset 运动的官方英译，该运动鼓励女性拒绝被外貌定义。
 
-```
-chapter_[话数]_page_[页数]_colored.png
-
-示例：chapter_01_page_05_colored.png
-```
+<br>
 
 ---
 
-> 🌟 **每一份贡献，无论大小，都是推动这个项目前进的力量！**
->
-> 感谢您愿意花时间让更多人看到这个故事。
+<br>
 
----
-
-## 🔗 来源与致谢
-
-### 原作信息
-
-| 项目 | 信息 |
-|:---|:---|
-| **原作者** | 탈코일기계정 |
-| **原作 Twitter** | [@talco1gi](https://x.com/talco1gi) |
-
-### 日语翻译版本
-
-- **翻译来源**: [@datsukolsaikou](https://x.com/datsukolsaikou/status/1277271606302138370)
-- 感谢日语翻译者的辛勤付出 🙏
-
----
-
-## ⚠️ 免责声明
-
-- 本项目仅供学习交流使用，不涉及任何商业目的
-- 所有漫画版权归原作者 **탈코일기계정** 所有
-- 如有侵权，请联系删除
-- 请支持原作者的创作
-
----
-
-## 📚 在线阅读
-
-*即将上线...*
-
----
-
-## 📚 推荐作品
-
-如果您喜欢《탈코일기》，也推荐您阅读以下同类题材的优秀韩国漫画：
-
-### 《달려가는 여자》 | 跑过去的女性
+## ✨ 核心特色
 
 <table>
 <tr>
-<td width="120"><strong>韩文名</strong></td>
-<td>달려가는 여자</td>
-</tr>
-<tr>
-<td><strong>日语译名</strong></td>
-<td>走っていく女性</td>
-</tr>
-<tr>
-<td><strong>中文译名</strong></td>
-<td>跑过去的女性</td>
-</tr>
-<tr>
-<td><strong>原作者</strong></td>
-<td>누구개 (<a href="https://x.com/someone_fmns">@someone_fmns</a>)</td>
-</tr>
-<tr>
-<td><strong>日语翻译</strong></td>
-<td><a href="https://x.com/datsukolsaikou/status/1059812512265371652?s=19">@datsukolsaikou</a></td>
+<td align="center" width="33%"><h3>🤖</h3><b>AI 原生</b><br><sub>Nano Banana Pro by Gemini 3</sub></td>
+<td align="center" width="33%"><h3>🎨</h3><b>不止翻译</b><br><sub>上色 + 增强 + 本地化</sub></td>
+<td align="center" width="33%"><h3>🌐</h3><b>开源协作</b><br><sub>人人可参与的创作</sub></td>
 </tr>
 </table>
 
-> 💬 *"누구개@someone_fmns 様の作品を翻訳紹介させていただきます🙏皆様お楽しみください～"*
-
-📖 **[点击阅读日语翻译版本](https://x.com/datsukolsaikou/status/1059812512265371652?s=19)**
+<br>
 
 ---
 
-> 💡 **期待更多作品？**
-> 
-> 如果您知道其他值得推荐的同类漫画，欢迎在 Issues 中告诉我们！
+<br>
+
+## 🛠️ 技术流程
+
+```mermaid
+flowchart TD
+    subgraph 输入
+        A[📄 黑白日语漫画]
+    end
+    
+    subgraph AI["🤖 Nano Banana Pro by Gemini 3"]
+        B[图像语义分析]
+        B --> C[智能上色]
+        B --> D[文字识别 OCR]
+        D --> E[日语→中文翻译]
+    end
+    
+    subgraph 输出
+        F[🎨 彩色中文漫画]
+    end
+    
+    A --> B
+    C --> F
+    E --> F
+    
+    style A fill:#f5f5f5
+    style F fill:#c8e6c9
+```
+
+**为什么选择 Nano Banana Pro？**
+
+| 能力 | 说明 |
+|:---|:---|
+| 🖼️ 图像理解 | 识别漫画结构、人物、场景 |
+| 🎨 语义上色 | 根据情感基调生成配色 |
+| ✍️ 文字处理 | 精准替换文字，保持排版 |
+| 🔄 风格一致 | 保持原作艺术风格 |
+
+<br>
+
+---
+
+<br>
+
+## 🚀 快速开始
+
+只需 **5 步**，即可参与 AI 二次创作：
+
+| 步骤 | 操作 |
+|:---:|:---|
+| **1** | 打开 [gemini.google.com](https://gemini.google.com/) 并登录 |
+| **2** | 上传一张日语版漫画图片 |
+| **3** | 粘贴下方提示词 |
+| **4** | 等待 AI 生成彩色中文版 |
+| **5** | 下载并提交 PR |
+
+**📋 提示词模板：**
+
+```
+请帮我将附件图片做精细化处理，比如上色、增加背景和线条等等，
+对图片做专业漫画的加工程序，漫画中的日语配文要全部改为中文配文，
+使其成为一个专业的漫画。
+```
+
+> 💡 **提示**：可根据需要添加「使用明亮配色」「保持原画风」等补充说明。
+
+<br>
+
+---
+
+<br>
+
+## 🤝 参与贡献
+
+```mermaid
+flowchart LR
+    A["🍴 Fork"] --> B["🎨 创作"] --> C["📤 提交 PR"] --> D["✅ 合并"]
+    
+    style A fill:#fff3e0
+    style B fill:#e3f2fd
+    style C fill:#f3e5f5
+    style D fill:#e8f5e9
+```
+
+**贡献方式：**
+
+| 方式 | 说明 |
+|:---|:---|
+| 🎨 提交作品 | 处理漫画页面，提交彩色中文版 |
+| 🔬 优化 Prompt | 分享更好的提示词技巧 |
+| 📖 校对翻译 | 检查翻译准确性 |
+| ⭐ Star | 让更多人发现这个项目 |
+
+**文件命名：** `chapter_01_page_05_colored.png`
+
+<br>
+
+> 🌟 **每一份贡献都在推动这个项目前进！**
+
+<br>
+
+---
+
+<br>
+
+## 📖 在线阅读
+
+*🚧 即将上线...*
+
+<br>
+
+---
+
+<br>
+
+## 📚 更多阅读
+
+同类题材推荐：
+
+| 作品 | 信息 |
+|:---|:---|
+| **《달려가는 여자》** | 跑过去的女性 |
+| 原作者 | 누구개 [@someone_fmns](https://x.com/someone_fmns) |
+| 日语版 | [@datsukolsaikou](https://x.com/datsukolsaikou/status/1059812512265371652) |
+
+<br>
+
+---
+
+<br>
+
+## 🙏 致谢
+
+| 角色 | 致谢对象 |
+|:---|:---|
+| 原作者 | 탈코일기계정 [@talco1gi](https://x.com/talco1gi) |
+| 日语翻译 | [@datsukolsaikou](https://x.com/datsukolsaikou/status/1277271606302138370) |
+
+<br>
+
+## ⚠️ 免责声明
+
+本项目仅供学习交流，不涉及商业目的。所有漫画版权归原作者 **탈코일기계정** 所有。如有侵权请联系删除，请支持原作者创作。
+
+<br>
 
 ---
 
 <p align="center">
-  <i>献给每一位勇敢做自己的人 ✨</i>
+  <b>🎨 AI 赋能创作 · 开源连接世界 · 故事跨越语言</b>
+</p>
+
+<p align="center">
+  <sub>献给每一位勇敢做自己的人 ✨</sub>
 </p>
